@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-homework-3.2/static/css/main.99526057.chunk.css",
-    "main.js": "/react-homework-3.2/static/js/main.3964e47e.chunk.js",
-    "main.js.map": "/react-homework-3.2/static/js/main.3964e47e.chunk.js.map",
+    "main.js": "/react-homework-3.2/static/js/main.a5af8821.chunk.js",
+    "main.js.map": "/react-homework-3.2/static/js/main.a5af8821.chunk.js.map",
     "runtime-main.js": "/react-homework-3.2/static/js/runtime-main.79a56a43.js",
     "runtime-main.js.map": "/react-homework-3.2/static/js/runtime-main.79a56a43.js.map",
     "static/css/2.ccc6f86f.chunk.css": "/react-homework-3.2/static/css/2.ccc6f86f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ccc6f86f.chunk.css",
     "static/js/2.aa6df49d.chunk.js",
     "static/css/main.99526057.chunk.css",
-    "static/js/main.3964e47e.chunk.js"
+    "static/js/main.a5af8821.chunk.js"
   ]
 }
